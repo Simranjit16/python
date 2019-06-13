@@ -4,5 +4,5 @@
  age=int(input("your age :"))
  a = datetime.datetime.now()
 
- print(name,"you will turn 95 by the year:",(name(95-age)+a.year)
+ print(name,"you will turn 95 by the year:",(95-age)+a.year)
 
